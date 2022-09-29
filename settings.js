@@ -92,7 +92,7 @@ global.ntilink = []
 
 //OTHERS
 global.sessionName = 'session'
-global.antitags = true
+global.antitags = fole 
 global.prefa = ['','!','.']
 global.sp = '⭔'
 global.mess = {
